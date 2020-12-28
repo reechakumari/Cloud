@@ -4,7 +4,7 @@ Welcome Reecha
 <pre>
 <?php
 
-print 'ifconfig';
+print `ifconfig`;
 
 ?>
 </pre>
